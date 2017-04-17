@@ -39,6 +39,8 @@
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?1D%2FJTDWH&from=wnel">解体党文化</a><br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?4EC%2FBNGCD&from=wnel">百年共产党</a><br/>
 ◆<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816602&from=wnel">马克思的成魔之路</a><br/>
+* 微信如果提示：停止访问该网页<br/>
+* 请点击右上角，选择浏览器打开<br/>
 * 如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
