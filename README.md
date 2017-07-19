@@ -9,7 +9,7 @@
 苹果用户请输入网址到苹果浏览器打开<br/>
 网民必备浏览器：谷歌浏览器（请安装）<br/>
 <a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版 </a><br/>
-<a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器windows版 </a><br/>
+<a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器电脑版 </a><br/>
 <a href="https://chrome.cn.uptodown.com/iphone">◆谷歌浏览器苹果版</a><br/>
 <a href="https://google-chrome.cn.uptodown.com/mac">◆谷歌浏览器Mac版</a><br/>
 国产浏览器监控/屏蔽网页/广告多/请卸载<br/>
@@ -49,7 +49,14 @@
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/3%E9%80%80%E9%80%83%E5%A4%A7%E7%81%BE.jpg"/>       </tr>
   <tr>
    <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?4EC%2FST&from=st?from=wnel">◆◆“三退”到底是件什么事？◆◆</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816846&from=st?from=wnel">◆◆“三退”到底是件什么事？◆◆</a><br/>
+  </tr>
+  <tr>
+   <td align=left>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816846_6_1&from=st?from=wnel">◆◆全球近3亿人“三退”，国人之福</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816846_5_3&from=st?from=wnel">◆◆上亿人“三退”，开启新中国</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816846_4_1&from=st?from=wnel">◆◆前中共国安官员李凤智公开退党</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816846_2_1&from=st?from=wnel">◆◆为了您的未来 请加入三退大潮</a><br/>
 如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
